@@ -61,8 +61,8 @@ Now let's insert some data!
 
 curl -XPOST http://localhost:9200/user/profile/1?pretty=true -d '
 {
-    "full_name" : "Andrew Puch",
-    "bio" : "My name is Andrew. I am an agile DevOps Engineer who is passionate about working with Software as a Service based applications, REST APIs, and various web application frameworks.",
+    "full_name" : "Phanikumar",
+    "bio" : "My name is Phani. I am a DevOps Engineer .",
     "age" : 26,
     "location" : "41.1246110,-73.4232880",
     "enjoys_coffee" : true,
